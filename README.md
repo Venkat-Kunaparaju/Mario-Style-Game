@@ -2,7 +2,7 @@
 
 My first attempt to make a big game
 
-All the fundamental aspects of the game are there (collision, attacking, NPCs, etc.), but building the levels and having multiple of them put too much on Pygame's engine and the game didn't run smoothly, so I never finished it.  
+All the fundamental aspects of the game are there (collision, attacking, NPCs, etc.), but building the levels and having multiple of them put too much on Pygame's engine and the game didn't run smoothly (probably due to my way of building the game), so I never finished it.  
 
 
 # Gameplay
