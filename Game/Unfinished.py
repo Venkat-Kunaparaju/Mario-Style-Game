@@ -1878,7 +1878,7 @@ while levels.levelrun:
     inter.sprites10.clear()
     rec.read('0', 0)
     exits.read('0E', 0)
-    mobs.read('0M', 0)
+    #mobs.read('0M', 0)
     rec.read('1', 1)
     exits.read('1E', 1)
     mobs.read('1M', 1)
@@ -1888,7 +1888,7 @@ while levels.levelrun:
     
     key.read('Keys', 1)
     key.read('Keys2', 2)
-    inter.read('Inter0', 0)
+    #inter.read('Inter0', 0)
     inter.read('Inter1', 1)
     inter.read('Inter2', 2)
     player.health = 10
